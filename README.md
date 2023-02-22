@@ -11,7 +11,8 @@
 
 ### Installation Steps
 1. Download the "rssh" binary and configuration file from the project's GitHub repository to your local machine.
-2. Open a terminal window and navigate to the directory where you downloaded the files.
+2.  Decompress the "rssh.tar.gz" file into a "rssh" directory
+
 3. Move the "rssh" directory to `/usr/local/share/` by running the following command: 
 
 sudo mv rssh /usr/local/share/
