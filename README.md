@@ -1,8 +1,11 @@
 # rssh
 
-"rssh" is a command line tool that allows you to easily connect to multiple remote hosts by reading a configuration file that includes the IP addresses, host names, and passwords for each remote host. "rssh" then uses the `sshpass` package to automatically establish an SSH connection with the selected remote host.
+"rssh" is a command-line tool that simplifies connecting to multiple remote hosts.
 
-## Installation
+## Installation   (For version beta). 
+Refer to github.com/jkpeyi/rssh/blob/releases/ for latest changes.
+
+
 
 ### Prerequisites
 - A Unix-based operating system (such as Linux, macOS, or BSD)
