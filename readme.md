@@ -4,7 +4,7 @@ Hello rssh version 1.0.
 
 ## Overview
 
-A shortcutility to connect easily to remote machines via ssh.
+A short utility to connect easily to remote machines via ssh.
 ## Download and Installation
 
 Follow these steps to download and install the `rssh` package:
