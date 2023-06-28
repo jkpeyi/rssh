@@ -28,3 +28,7 @@ Follow these steps to download and install the `rssh` package:
    ```bash
    sudo dpkg -i rssh-1.0.deb
 4. Add hosts to the config file in /etc/rssh and enjoy
+
+## EXAMPLE
+
+
