@@ -33,17 +33,10 @@ The goal is to introduce a new `rssh connect` command to streamline host connect
 
 **Contributor Guidelines:**
 
-Contributors are encouraged to review the roadmap and address any open tasks. New ideas and improvements are always welcome. Please ensure that your changes align with the project's coding standards.
+Contributors are encouraged to review the roadmap and address any open tasks. New ideas and improvements are always welcome. Please ensure that your changes align with good coding standards.
 
 **How to Contribute:**
 
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Implement the features or fixes based on the outlined roadmap.
-4. Submit a pull request with a detailed description of your changes.
+Do what you can
 
 Let's work together to enhance the `rssh connect` command and provide users with a more versatile and user-friendly experience!
-
----
-
-Feel free to customize this GitHub issue template according to your project's conventions and specific requirements.
