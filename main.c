@@ -1,12 +1,14 @@
 #include <stdio.h>
 #include "rssh.h"
+#include "command.h"
 
-int main()
+int main(int args , char *argv[])
 {
 
+    handle_command(args, argv);
     struct Host hosts[MAX_HOSTS];
 
-    int num_hosts = read_config_file("/etc/rssh/config.txt", hosts);
+    int num_hosts = read_config_file(CONFIG_FILE, hosts);
 
     if (num_hosts == 0)
     {
