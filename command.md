@@ -1,8 +1,6 @@
-Certainly! Here's a suggestion for a GitHub issue regarding the maintenance roadmap for a new `rssh connect` command:
 
----
 
-**Title: Maintenance Roadmap for `rssh connect` Command**
+**Maintenance Roadmap for `rssh connect` Command**
 
 **Description:**
 
