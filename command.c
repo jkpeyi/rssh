@@ -24,6 +24,8 @@ void handle_command(int argc, char *argv[]) {
         exit(1);
     }
 
+    //swith case will be better choice i think
+
     if (strcmp(argv[1], "add") == 0) {
 
 
